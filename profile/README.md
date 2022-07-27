@@ -30,6 +30,8 @@ There are pros and cons to both approaches - notable:
 2. Reverse-engineers looking to help documenting APIs are also welcome - the bar to entry is lower than you think.
 3. An Android application that wraps the NUUP schema using accessibility APIs will be a great first launch, even if with minimal features.
 
+You can also join us on Gitter: https://gitter.im/librefin-in/community, or on Telegram: https://t.me/librefin
+
 ## Questions?
 
 Please file an issue in this repository for general questions, or in the other repositories for specific questions. You might wanna follow @captn3m0 on Twitter for announcements - look out for a townhall soon.
